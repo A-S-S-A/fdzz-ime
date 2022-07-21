@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# fdzz-ime
 
-## Setup
+> Yet another Hangul input method for Minecraft.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+`fdzz-ime`는 [FabricMC](https://fabricmc.net) 기반 마인크래프트 한글 입력기입니다.
